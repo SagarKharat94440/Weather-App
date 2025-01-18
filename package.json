@@ -4,22 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-<<<<<<< HEAD
-  "dev": "vite",
-  "build": "vite build",
-  "start": "node server.js",  
-  "lint": "eslint .",
-  "preview": "vite preview"
-}
-,
-=======
     "dev": "vite",
     "build": "vite build",
-    "start": "serve -s build"
+    "start": "node server.js",  
     "lint": "eslint .",
     "preview": "vite preview"
   },
->>>>>>> a9a12ffee692c58664ef4f2c91fc4aa47b4acc22
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
