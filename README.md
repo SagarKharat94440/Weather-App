@@ -11,7 +11,7 @@ This is a web app developed as a final project for SheCodes React using React.js
 - CSS
 - JavaScript
 - VS Code
-- SheCodes Weather API
+-  OpenWeather API
 
 # Installation and Usage
 To use this app, you can follow these steps:
